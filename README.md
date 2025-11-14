@@ -33,6 +33,26 @@
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logoColor=white)
 
 * General Assembly Data Analytics Certification
+* <a href="https://www.linkedin.com/in/debbie-go/" 
+   target="_blank"
+   style="
+     display: inline-flex;
+     justify-content: center;
+     align-items: center;
+     padding: 7px 15px;
+     text-align: center;
+     text-decoration: none !important;
+     color: #ffffff !important;
+     min-width: 200px;
+     height: 32px;
+     border-radius: 16px;
+     background-color: #0A66C2;
+     font-family: 'SF Pro Text', Helvetica, sans-serif;
+     font-size: 14px;
+     margin: 10px 0;
+   ">
+    Follow Me on LinkedIn
+</a>
 
 ## My work
 
